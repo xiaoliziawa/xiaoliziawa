@@ -1,4 +1,6 @@
-# <div align="center">
+# <div align="center">🌰</div>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F90F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 
