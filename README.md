@@ -1,6 +1,8 @@
-# <div align="center">👋 🌰！</div>
+# <div align="center">🌰</div>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F90F7&center=true&vCenter=true&width=435&lines=欢迎来到我的GitHub主页;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 
 ### 📈活跃度
 
@@ -8,8 +10,10 @@
 
 |📊统计|🔥语言|
 |---|---|
-|[![xiaoliziawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoliziawa&show_icons=true&theme=tokyonight)](https://github.com/xiaoliziawa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoliziawa&layout=compact&theme=tokyonight)](https://github.com/xiaoliziawa)|
+|[![xiaoliziawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoliziawa&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/xiaoliziawa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoliziawa&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/xiaoliziawa)|
 
+### 🏆成就
+[![trophy](https://github-profile-trophy.vercel.app/?username=xiaoliziawa&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/xiaoliziawa)
 
 ### ❤️贡献
 <picture>
@@ -18,12 +22,16 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
 ### 🛠️技术栈
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 👀访客统计
+<img src="https://profile-counter.glitch.me/xiaoliziawa/count.svg" />
+
 ---
+<img src="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/main/assets/github-contribution-grid-snake.svg" />
 
 </div>
