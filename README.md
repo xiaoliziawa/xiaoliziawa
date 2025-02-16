@@ -2,7 +2,7 @@
 
 <div align="center">
 ### 📈活跃度
-[![xiaoliziawa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoliziawa&theme=tokyo-night)](https://github.com/xiaoliziawa)
+![xiaoliziawa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoliziawa&theme=tokyo-night)](https://github.com/xiaoliziawa)
 
 ### 🐍贡献
 ![](https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake.svg)
