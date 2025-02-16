@@ -1,10 +1,15 @@
-# <div align="center">👋 Hello 🌰！</div>
+# <div align="center">👋 🌰！</div>
 
 <div align="center">
 
 ### 📈活跃度
 
 [![xiaoliziawa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoliziawa&theme=tokyo-night&bg_color=1A1B27&color=38BDAE&line=628FDA&point=FFFFFF&hide_border=true)](https://github.com/xiaoliziawa)
+
+|📊统计|🔥语言|
+|---|---|
+|[![xiaoliziawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoliziawa&show_icons=true&theme=tokyonight)](https://github.com/xiaoliziawa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoliziawa&layout=compact&theme=tokyonight)](https://github.com/xiaoliziawa)|
+
 
 ### ❤️贡献
 <picture>
@@ -13,9 +18,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake.svg" />
 </picture>
 
-|📊统计|🔥语言|
-|---|---|
-|[![xiaoliziawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoliziawa&show_icons=true&theme=tokyonight)](https://github.com/xiaoliziawa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoliziawa&layout=compact&theme=tokyonight)](https://github.com/xiaoliziawa)|
 
 ### 🛠️技术栈
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
