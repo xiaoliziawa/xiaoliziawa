@@ -2,7 +2,8 @@
 
 <div align="center">
 ### 📈活跃度
-![xiaoliziawa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoliziawa&theme=tokyo-night&bg_color=1A1B27&color=38BDAE&line=628FDA&point=FFFFFF&hide_border=true)
+
+[![xiaoliziawa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoliziawa&theme=tokyo-night&bg_color=1A1B27&color=38BDAE&line=628FDA&point=FFFFFF&hide_border=true)](https://github.com/xiaoliziawa)
 
 ### 贡献
 <picture>
