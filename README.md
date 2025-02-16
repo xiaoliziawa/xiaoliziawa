@@ -2,10 +2,14 @@
 
 <div align="center">
 ### 📈活跃度
-![xiaoliziawa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoliziawa&theme=tokyo-night)](https://github.com/xiaoliziawa)
+[![xiaoliziawa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoliziawa&theme=tokyo-night)](https://github.com/xiaoliziawa)
 
 ### 🐍贡献
-![](https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📊统计
 [![xiaoliziawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoliziawa&show_icons=true&theme=tokyonight)](https://github.com/xiaoliziawa)
