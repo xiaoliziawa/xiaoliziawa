@@ -32,6 +32,4 @@
 <img src="https://profile-counter.glitch.me/xiaoliziawa/count.svg" />
 
 ---
-<img src="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/main/assets/github-contribution-grid-snake.svg" />
-
 </div>
