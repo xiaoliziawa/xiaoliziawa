@@ -13,12 +13,20 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<div style="display: flex;">
+  <div style="flex: 1;">
+    
 ### 📊统计
 [![xiaoliziawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoliziawa&show_icons=true&theme=tokyonight)](https://github.com/xiaoliziawa)
 
+  </div>
+  <div style="flex: 1;">
+    
 ### 🔥语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoliziawa&layout=compact&theme=tokyonight)](https://github.com/xiaoliziawa)
 
+  </div>
+</div>
 
 ### 🛠️技术栈
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
