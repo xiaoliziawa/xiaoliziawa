@@ -162,14 +162,14 @@
   <text x="710" y="150" fill="#FF006E" opacity="0.1" font-family="monospace" font-size="9">&#x003C;/&gt;</text>
 
   <!-- Main text glow layer (background bloom) -->
-  <text x="425" y="92" text-anchor="middle" font-family="'Courier New', 'Consolas', monospace" font-size="11" font-weight="bold" letter-spacing="8" fill="#00F0FF" opacity="0.15" filter="url(#softGlow)">XIAOLIZIAWA</text>
+  <text x="425" y="92" text-anchor="middle" font-family="'Courier New', 'Consolas', monospace" font-size="11" font-weight="bold" letter-spacing="8" fill="#00F0FF" opacity="0.15" filter="url(#softGlow)">LIRXOWO</text>
 
   <!-- Bracket decorations -->
   <text x="188" y="115" font-family="'Courier New', monospace" font-size="40" fill="#BD00FF" opacity="0.5" filter="url(#glowPurple)">{</text>
   <text x="632" y="115" font-family="'Courier New', monospace" font-size="40" fill="#BD00FF" opacity="0.5" filter="url(#glowPurple)">}</text>
 
   <!-- Main username text -->
-  <text x="425" y="108" text-anchor="middle" font-family="'Courier New', 'Consolas', 'Liberation Mono', monospace" font-size="42" font-weight="bold" letter-spacing="6" fill="#00F0FF" filter="url(#glowCyan)">xiaoliziawa</text>
+  <text x="425" y="108" text-anchor="middle" font-family="'Courier New', 'Consolas', 'Liberation Mono', monospace" font-size="42" font-weight="bold" letter-spacing="6" fill="#00F0FF" filter="url(#glowCyan)">LirxOwO</text>
 
   <!-- Subtitle line -->
   <line x1="310" y1="125" x2="540" y2="125" stroke="url(#bottomEdge)" stroke-width="1" opacity="0.5"/>
