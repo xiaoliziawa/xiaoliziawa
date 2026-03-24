@@ -8,7 +8,7 @@
 
 <br>
 
-![visitors](https://komarev.com/ghpvc/?username=LirxOwO&color=00F0FF&style=flat-square&label=访客)
+![visitors](https://komarev.com/ghpvc/?username=xiaoliziawa&color=00F0FF&style=flat-square&label=访客)
 
 </div>
 
@@ -48,18 +48,18 @@
 
 <div align="center">
 
-<a href="https://github.com/LirxOwO">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LirxOwO&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=00F0FF&text_color=C9D1D9&ring_color=BD00FF" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LirxOwO&layout=compact&bg_color=0D1117&hide_border=true&title_color=00F0FF&text_color=C9D1D9" />
+<a href="https://github.com/xiaoliziawa">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xiaoliziawa&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=00F0FF&text_color=C9D1D9&ring_color=BD00FF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoliziawa&layout=compact&bg_color=0D1117&hide_border=true&title_color=00F0FF&text_color=C9D1D9" />
 </a>
 
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LirxOwO&hide_border=true&background=0D1117&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=BD00FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555)](https://github.com/LirxOwO)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xiaoliziawa&hide_border=true&background=0D1117&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=BD00FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555)](https://github.com/xiaoliziawa)
 
 <br>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LirxOwO&bg_color=0D1117&color=00F0FF&line=BD00FF&point=FF006E&area=true&area_color=BD00FF&hide_border=true)](https://github.com/LirxOwO)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoliziawa&bg_color=0D1117&color=00F0FF&line=BD00FF&point=FF006E&area=true&area_color=BD00FF&hide_border=true)](https://github.com/xiaoliziawa)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=LirxOwO&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/LirxOwO)
+[![trophy](https://github-trophies.vercel.app/?username=xiaoliziawa&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/xiaoliziawa)
 
 </div>
 
@@ -79,9 +79,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LirxOwO/LirxOwO/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LirxOwO/LirxOwO/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LirxOwO/LirxOwO/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
 
