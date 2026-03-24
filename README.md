@@ -1,94 +1,90 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:BD00FF,100:FF006E&height=200&section=header&text=xiaoliziawa&fontSize=60&fontColor=00F0FF&animation=twinkling&stroke=BD00FF&strokeWidth=2" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9A%A1+Welcome+to+the+Cyber+Realm+%E2%9A%A1;%F0%9F%94%A5+Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%F0%9F%94%A5" alt="Typing SVG" />
+<img width="100%" src="./assets/cyber-banner.svg" />
 
 <br>
 
-![visitors](https://komarev.com/ghpvc/?username=xiaoliziawa&color=00F0FF&style=for-the-badge&label=VISITORS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/xiaoliziawa?style=for-the-badge&color=BD00FF&labelColor=0D1117&logo=github)](https://github.com/xiaoliziawa)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00F0FF&center=true&vCenter=true&repeat=true&width=500&lines=%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E6%97%B6%E5%80%99%E5%96%9D%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%2C+%E4%B8%8D%E5%86%99%E7%9A%84%E6%97%B6%E5%80%99%E4%B9%9F%E5%96%9D;Java+%2F+Vue+%2F+%E6%8A%98%E8%85%BE%E4%B8%8D%E5%AE%8C%E7%9A%84+Minecraft+Mod;%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E6%96%B0%E4%B8%9C%E8%A5%BF...%E6%B0%B8%E8%BF%9C%E5%9C%A8%E5%AD%A6" alt="Typing SVG" />
+
+<br>
+
+![visitors](https://komarev.com/ghpvc/?username=xiaoliziawa&color=00F0FF&style=flat-square&label=访客)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ═══════════════════════════════════════ -->
+
+<h2 align="center">🔧 我在用的东西</h2>
 
 <div align="center">
 
-## ⚡ 技术矩阵
-
 <table>
-<tr><td valign="top" width="50%">
+<tr><td align="center" width="50%">
 
-### 🎯 语言
+**写代码用**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 
-</td><td valign="top" width="50%">
+</td><td align="center" width="50%">
 
-### 🛠️ 框架 & 工具
+**搭配干活**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-%2302303A?style=flat-square&logo=gradle&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-%23000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 </td></tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ═══════════════════════════════════════ -->
+
+<h2 align="center">📊 GitHub 数据</h2>
 
 <div align="center">
 
-## 📊 数据面板
-
 <a href="https://github.com/xiaoliziawa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xiaoliziawa&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=00F0FF&text_color=FFFFFF&ring_color=BD00FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoliziawa&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=00F0FF&text_color=FFFFFF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xiaoliziawa&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=00F0FF&title_color=00F0FF&text_color=C9D1D9&ring_color=BD00FF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoliziawa&layout=compact&bg_color=0D1117&hide_border=true&title_color=00F0FF&text_color=C9D1D9" />
 </a>
 
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xiaoliziawa&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=BD00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://github.com/xiaoliziawa)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xiaoliziawa&hide_border=true&background=0D1117&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=BD00FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555)](https://github.com/xiaoliziawa)
 
 <br>
 
-[![xiaoliziawa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoliziawa&bg_color=0D1117&color=00F0FF&line=BD00FF&point=FF006E&area=true&area_color=BD00FF&hide_border=true)](https://github.com/xiaoliziawa)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoliziawa&bg_color=0D1117&color=00F0FF&line=BD00FF&point=FF006E&area=true&area_color=BD00FF&hide_border=true)](https://github.com/xiaoliziawa)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ═══════════════════════════════════════ -->
+
+<h2 align="center">🏆 成就</h2>
 
 <div align="center">
-
-## 🏆 成就陈列室
 
 [![trophy](https://github-trophies.vercel.app/?username=xiaoliziawa&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/xiaoliziawa)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ═══════════════════════════════════════ -->
+
+<h2 align="center">🐍 贡献</h2>
 
 <div align="center">
-
-## 🐍 贡献吞噬者
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/xiaoliziawa/xiaoliziawa/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:BD00FF,100:00F0FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:BD00FF,100:00F0FF&height=100&section=footer" />

@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="850" height="200">
+  <defs>
+    <!-- Grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00F0FF" stroke-width="0.3" opacity="0.15"/>
+    </pattern>
+
+    <!-- Fine circuit traces -->
+    <pattern id="circuit" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 10 15 L 25 15" fill="none" stroke="#BD00FF" stroke-width="0.5" opacity="0.2"/>
+      <path d="M 50 0 L 50 30 L 80 30" fill="none" stroke="#00F0FF" stroke-width="0.5" opacity="0.15"/>
+      <path d="M 0 60 L 20 60 L 20 45 L 40 45" fill="none" stroke="#BD00FF" stroke-width="0.5" opacity="0.18"/>
+      <path d="M 60 80 L 60 55 L 75 55" fill="none" stroke="#FF006E" stroke-width="0.5" opacity="0.12"/>
+      <circle cx="10" cy="15" r="1.5" fill="#00F0FF" opacity="0.3"/>
+      <circle cx="25" cy="15" r="1" fill="#BD00FF" opacity="0.25"/>
+      <circle cx="50" cy="30" r="1.5" fill="#00F0FF" opacity="0.2"/>
+      <circle cx="20" cy="60" r="1" fill="#BD00FF" opacity="0.25"/>
+      <circle cx="40" cy="45" r="1.5" fill="#FF006E" opacity="0.2"/>
+      <circle cx="60" cy="55" r="1" fill="#00F0FF" opacity="0.2"/>
+    </pattern>
+
+    <!-- Neon cyan glow -->
+    <filter id="glowCyan" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur1"/>
+      <feGaussianBlur stdDeviation="12" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Purple glow -->
+    <filter id="glowPurple" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur1"/>
+      <feGaussianBlur stdDeviation="10" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft ambient glow -->
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+
+    <!-- Scanline effect -->
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="black" opacity="0.08"/>
+    </pattern>
+
+    <!-- Gradient for bottom edge -->
+    <linearGradient id="bottomEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF006E" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#FF006E" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#BD00FF" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#00F0FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Top edge gradient -->
+    <linearGradient id="topEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00F0FF" stop-opacity="0.5"/>
+      <stop offset="70%" stop-color="#BD00FF" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#BD00FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Background radial -->
+    <radialGradient id="bgGlow1" cx="25%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#BD00FF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#BD00FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgGlow2" cx="75%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Base background -->
+  <rect width="850" height="200" fill="#0D1117"/>
+
+  <!-- Ambient glows -->
+  <rect width="850" height="200" fill="url(#bgGlow1)"/>
+  <rect width="850" height="200" fill="url(#bgGlow2)"/>
+
+  <!-- Grid layer -->
+  <rect width="850" height="200" fill="url(#grid)"/>
+
+  <!-- Circuit traces -->
+  <rect width="850" height="200" fill="url(#circuit)"/>
+
+  <!-- Decorative horizontal lines -->
+  <line x1="0" y1="45" x2="200" y2="45" stroke="#00F0FF" stroke-width="0.5" opacity="0.25"/>
+  <line x1="650" y1="155" x2="850" y2="155" stroke="#BD00FF" stroke-width="0.5" opacity="0.25"/>
+  <line x1="0" y1="155" x2="120" y2="155" stroke="#FF006E" stroke-width="0.5" opacity="0.2"/>
+  <line x1="730" y1="45" x2="850" y2="45" stroke="#00F0FF" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Corner accents - top left -->
+  <path d="M 0 30 L 30 30 L 30 0" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.4"/>
+  <path d="M 0 35 L 15 35 L 15 0" fill="none" stroke="#BD00FF" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Corner accents - top right -->
+  <path d="M 850 30 L 820 30 L 820 0" fill="none" stroke="#BD00FF" stroke-width="1" opacity="0.4"/>
+  <path d="M 850 35 L 835 35 L 835 0" fill="none" stroke="#00F0FF" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Corner accents - bottom left -->
+  <path d="M 0 170 L 30 170 L 30 200" fill="none" stroke="#FF006E" stroke-width="1" opacity="0.4"/>
+  <path d="M 0 165 L 15 165 L 15 200" fill="none" stroke="#BD00FF" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Corner accents - bottom right -->
+  <path d="M 850 170 L 820 170 L 820 200" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.4"/>
+  <path d="M 850 165 L 835 165 L 835 200" fill="none" stroke="#FF006E" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Data stream dots - left side -->
+  <g opacity="0.4">
+    <circle cx="55" cy="70" r="1" fill="#00F0FF"/>
+    <circle cx="55" cy="82" r="1.5" fill="#BD00FF"/>
+    <circle cx="55" cy="94" r="1" fill="#00F0FF"/>
+    <circle cx="55" cy="106" r="2" fill="#FF006E"/>
+    <circle cx="55" cy="118" r="1" fill="#BD00FF"/>
+    <circle cx="55" cy="130" r="1.5" fill="#00F0FF"/>
+  </g>
+
+  <!-- Data stream dots - right side -->
+  <g opacity="0.35">
+    <circle cx="795" cy="65" r="1.5" fill="#BD00FF"/>
+    <circle cx="795" cy="77" r="1" fill="#00F0FF"/>
+    <circle cx="795" cy="89" r="2" fill="#FF006E"/>
+    <circle cx="795" cy="101" r="1" fill="#BD00FF"/>
+    <circle cx="795" cy="113" r="1.5" fill="#00F0FF"/>
+    <circle cx="795" cy="125" r="1" fill="#FF006E"/>
+    <circle cx="795" cy="137" r="1.5" fill="#BD00FF"/>
+  </g>
+
+  <!-- Hexagonal accent left -->
+  <g transform="translate(100, 100)" opacity="0.12">
+    <polygon points="0,-18 15.6,-9 15.6,9 0,18 -15.6,9 -15.6,-9" fill="none" stroke="#00F0FF" stroke-width="1"/>
+  </g>
+
+  <!-- Hexagonal accent right -->
+  <g transform="translate(750, 100)" opacity="0.12">
+    <polygon points="0,-18 15.6,-9 15.6,9 0,18 -15.6,9 -15.6,-9" fill="none" stroke="#BD00FF" stroke-width="1"/>
+  </g>
+
+  <!-- Small diamond accents -->
+  <g transform="translate(160, 55) rotate(45)" opacity="0.2">
+    <rect x="-4" y="-4" width="8" height="8" fill="none" stroke="#FF006E" stroke-width="0.8"/>
+  </g>
+  <g transform="translate(690, 145) rotate(45)" opacity="0.2">
+    <rect x="-4" y="-4" width="8" height="8" fill="none" stroke="#00F0FF" stroke-width="0.8"/>
+  </g>
+
+  <!-- Floating code fragments - left -->
+  <text x="80" y="58" fill="#00F0FF" opacity="0.12" font-family="monospace" font-size="9">sys.init()</text>
+  <text x="90" y="150" fill="#BD00FF" opacity="0.1" font-family="monospace" font-size="8">0xF0FF</text>
+
+  <!-- Floating code fragments - right -->
+  <text x="700" y="58" fill="#BD00FF" opacity="0.1" font-family="monospace" font-size="8">node::active</text>
+  <text x="710" y="150" fill="#FF006E" opacity="0.1" font-family="monospace" font-size="9">&#x003C;/&gt;</text>
+
+  <!-- Main text glow layer (background bloom) -->
+  <text x="425" y="92" text-anchor="middle" font-family="'Courier New', 'Consolas', monospace" font-size="11" font-weight="bold" letter-spacing="8" fill="#00F0FF" opacity="0.15" filter="url(#softGlow)">XIAOLIZIAWA</text>
+
+  <!-- Bracket decorations -->
+  <text x="188" y="115" font-family="'Courier New', monospace" font-size="40" fill="#BD00FF" opacity="0.5" filter="url(#glowPurple)">{</text>
+  <text x="632" y="115" font-family="'Courier New', monospace" font-size="40" fill="#BD00FF" opacity="0.5" filter="url(#glowPurple)">}</text>
+
+  <!-- Main username text -->
+  <text x="425" y="108" text-anchor="middle" font-family="'Courier New', 'Consolas', 'Liberation Mono', monospace" font-size="42" font-weight="bold" letter-spacing="6" fill="#00F0FF" filter="url(#glowCyan)">xiaoliziawa</text>
+
+  <!-- Subtitle line -->
+  <line x1="310" y1="125" x2="540" y2="125" stroke="url(#bottomEdge)" stroke-width="1" opacity="0.5"/>
+
+  <!-- Subtitle -->
+  <text x="425" y="142" text-anchor="middle" font-family="'Courier New', 'Consolas', monospace" font-size="10" letter-spacing="4" fill="#BD00FF" opacity="0.7">DEVELOPER &#x2022; CREATOR &#x2022; EXPLORER</text>
+
+  <!-- Scanlines overlay -->
+  <rect width="850" height="200" fill="url(#scanlines)"/>
+
+  <!-- Edge glow lines -->
+  <rect x="0" y="0" width="850" height="1" fill="url(#topEdge)"/>
+  <rect x="0" y="199" width="850" height="1" fill="url(#bottomEdge)"/>
+
+  <!-- Subtle vignette -->
+  <rect width="850" height="200" fill="url(#bgGlow1)" opacity="0.3"/>
+</svg>
