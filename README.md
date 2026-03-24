@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.dev?font=Fira+Code&pause=1000&color=2F90F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F90F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 
 ### 📈活跃度
 
@@ -13,7 +13,7 @@
 |[![xiaoliziawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoliziawa&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/xiaoliziawa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoliziawa&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/xiaoliziawa)|
 
 ### 🏆成就
-[![trophy](https://github-profile-trophy.vercel.app/?username=xiaoliziawa&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/xiaoliziawa)
+[![trophy](https://github-trophies.vercel.app/?username=xiaoliziawa&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/xiaoliziawa)
 
 ### ❤️贡献
 <picture>
@@ -29,7 +29,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 👀访客统计
-<img src="https://profile-counter.glitch.me/xiaoliziawa/count.svg" />
+![visitors](https://komarev.com/ghpvc/?username=xiaoliziawa&color=2F90F7&style=for-the-badge)
 
 ---
 </div>
