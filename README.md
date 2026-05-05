@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00F0FF&center=true&vCenter=true&repeat=true&width=500&lines=%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E6%97%B6%E5%80%99%E5%96%9D%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%2C+%E4%B8%8D%E5%86%99%E7%9A%84%E6%97%B6%E5%80%99%E4%B9%9F%E5%96%9D;Java+%2F+Vue+%2F+%E6%8A%98%E8%85%BE%E4%B8%8D%E5%AE%8C%E7%9A%84+Minecraft+Mod;%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E6%96%B0%E4%B8%9C%E8%A5%BF...%E6%B0%B8%E8%BF%9C%E5%9C%A8%E5%AD%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00F0FF&center=true&vCenter=true&repeat=true&width=500&lines=917813;Java+%2F+Vue+%2F+%E6%8A%98%E8%85%BE%E4%B8%8D%E5%AE%8C%E7%9A%84+Minecraft+Mod;%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E6%96%B0%E4%B8%9C%E8%A5%BF...%E6%B0%B8%E8%BF%9C%E5%9C%A8%E5%AD%A6" alt="Typing SVG" />
 
 <br>
 
